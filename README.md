@@ -41,4 +41,4 @@ The most used functions in the code are:
 -convert(url)
 -load_manga(title)
 
-That is it for now this is still alot more to explain this code is way more complex then I remeber it being when I wrote it but for now this should explain the basics of the info gathering storing and loading.
+That is it for now, there is still alot more to explain, this code is way more complex then I remeber it being when I wrote it but for now this should explain the basics of the info gathering storing and loading.
